@@ -12,3 +12,16 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name         | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:-------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/dcd057c568cb1646b35ca79ccae11e0472ea6059.jpg) | 王传泽的男神       | [76561199724556877](https://steamcommunity.com/profiles/76561199724556877/) | ✅           | 2024-07-09 06:39:03 |                |          |
+| ![](https://avatars.steamstatic.com/6bfc9475578ffbef950c5ada1f727431ddf1a2c1.jpg) | 宇智波佐助[永恒万花筒] | [76561199550792476](https://steamcommunity.com/profiles/76561199550792476/) | ✅           | 2024-07-27 11:56:24 |                |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 开袋           | [76561199550328848](https://steamcommunity.com/profiles/76561199550328848/) | ✅           | 2024-12-13 16:16:49 |                |          |
+| ![](https://avatars.steamstatic.com/1a8160caf4038b6b9e558519c1bdca0de79398ef.jpg) | 青青草原刽子手美羊羊   | [76561199513184972](https://steamcommunity.com/profiles/76561199513184972/) | ✅           | 2023-09-08 13:31:47 |                |          |
+| ![](https://avatars.steamstatic.com/98dc28a70e26559aadfa42fe3caf239edd93c599.jpg) | 仙柒           | [76561199545270989](https://steamcommunity.com/profiles/76561199545270989/) | ✅           | 2024-07-01 15:26:27 |                |          |
+| ![](https://avatars.steamstatic.com/0f46c0b01872dd84978340b3d9bd7ce405246a17.jpg) | 倔强的青铜面具      | [76561199143082368](https://steamcommunity.com/profiles/76561199143082368/) | ✅           | 2024-11-26 06:01:32 |                |          |
+| ![](https://avatars.steamstatic.com/e123051ffc4f07e73737d58c17e3bee71366fc34.jpg) | 景阑之中有千山      | [76561198319693398](https://steamcommunity.com/profiles/76561198319693398/) | ✅           | 2024-08-15 12:49:21 |                |          |
+| ![](https://avatars.steamstatic.com/a689029fec316ae15209d24c480925c3564d47ef.jpg) | 功德无上的佛祖      | [76561199520032686](https://steamcommunity.com/profiles/76561199520032686/) | ✅           | 2024-08-14 06:07:08 |                |          |
