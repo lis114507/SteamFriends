@@ -25,3 +25,4 @@
 | ![](https://avatars.steamstatic.com/0f46c0b01872dd84978340b3d9bd7ce405246a17.jpg) | 倔强的青铜面具    | [76561199143082368](https://steamcommunity.com/profiles/76561199143082368/) | ✅           | 2024-11-26 06:01:32 |                |          |
 | ![](https://avatars.steamstatic.com/e123051ffc4f07e73737d58c17e3bee71366fc34.jpg) | 景阑之中有千山    | [76561198319693398](https://steamcommunity.com/profiles/76561198319693398/) | ✅           | 2024-08-15 12:49:21 |                |          |
 | ![](https://avatars.steamstatic.com/a689029fec316ae15209d24c480925c3564d47ef.jpg) | 功德无上的佛祖    | [76561199520032686](https://steamcommunity.com/profiles/76561199520032686/) | ✅           | 2024-08-14 06:07:08 |                |          |
+| ![](https://avatars.steamstatic.com/dbba8c46588c6a70a26f8bc958a4a3ee227f20f5.jpg) | XXXXX      | [76561199760901071](https://steamcommunity.com/profiles/76561199760901071/) | ✅           | 2024-12-28 17:03:43 |                |          |
