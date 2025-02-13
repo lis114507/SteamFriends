@@ -17,7 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
 |:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/dcd057c568cb1646b35ca79ccae11e0472ea6059.jpg) | 王传泽的男神     | [76561199724556877](https://steamcommunity.com/profiles/76561199724556877/) | ✅           | 2024-07-09 06:39:03 |                |          |
+| ![](https://avatars.steamstatic.com/165fa5c759b7e7972ad0631c6b90f2111d6c59c0.jpg) | 王传泽的男神     | [76561199724556877](https://steamcommunity.com/profiles/76561199724556877/) | ✅           | 2024-07-09 06:39:03 |                |          |
 | ![](https://avatars.steamstatic.com/6bfc9475578ffbef950c5ada1f727431ddf1a2c1.jpg) | sasuke     | [76561199550792476](https://steamcommunity.com/profiles/76561199550792476/) | ✅           | 2024-07-27 11:56:24 |                |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 开袋         | [76561199550328848](https://steamcommunity.com/profiles/76561199550328848/) | ✅           | 2024-12-13 16:16:49 |                |          |
 | ![](https://avatars.steamstatic.com/1a8160caf4038b6b9e558519c1bdca0de79398ef.jpg) | 青青草原刽子手美羊羊 | [76561199513184972](https://steamcommunity.com/profiles/76561199513184972/) | ✅           | 2023-09-08 13:31:47 |                |          |
